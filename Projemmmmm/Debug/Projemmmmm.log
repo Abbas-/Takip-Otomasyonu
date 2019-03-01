@@ -1,0 +1,38 @@
+﻿Build started 27.12.2014 17:08:11.
+     1>Project "C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Projemmmmm\Projemmmmm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "abbas proje.cpp"
+         abbas proje.cpp
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(309): warning C4101: 'secenek' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(588): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(629): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(664): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(705): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(775): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(815): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(855): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(892): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(939): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(974): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1097): warning C4101: 'ArananYerlestirildigi' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1095): warning C4101: 'ArananUyruk' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1096): warning C4101: 'ArananMeslek' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1094): warning C4101: 'ArananSehir' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1099): warning C4101: 'bosString' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1673): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1705): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1814): warning C4101: 'silinecekİsim' : unreferenced local variable
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(1999): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(2001): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(2002): warning C4129: '_' : unrecognized character escape sequence
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(2010): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(2011): warning C4129: '_' : unrecognized character escape sequence
+     1>c:\users\oktay\documents\visual studio 2013\projemmmmm\projemmmmm\abbas proje.cpp(2013): warning C4129: '_' : unrecognized character escape sequence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Debug\Projemmmmm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Debug\Projemmmmm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Debug\Projemmmmm.lib" /MACHINE:X86 "Debug\abbas proje.obj"
+         Projemmmmm.vcxproj -> C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Debug\Projemmmmm.exe
+     1>Done Building Project "C:\Users\OKTAY\documents\visual studio 2013\Projemmmmm\Projemmmmm\Projemmmmm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.26
